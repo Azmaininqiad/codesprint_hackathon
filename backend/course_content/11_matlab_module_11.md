@@ -1,3 +1,4 @@
+```markdown
 # Module 11: Advanced MATLAB Techniques  
 **Difficulty**: Intermediate  
 **Estimated Reading Time**: 12 minutes  
@@ -196,3 +197,4 @@ end
 1. [MATLAB Documentation: App Designer](https://mathworks.com/help/matlab/app-designer)  
 2. **Book**: *MATLAB Object-Oriented Programming* (R2023a Edition)  
 3. **Course**: "Advanced MATLAB Projects" (MathWorks Academy)  
+```

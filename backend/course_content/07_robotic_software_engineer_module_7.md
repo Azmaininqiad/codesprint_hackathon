@@ -1,3 +1,4 @@
+```markdown
 # Module 7: Robotic Software Engineer - Core Development Concepts
 
 ## Learning Objectives
@@ -95,7 +96,7 @@ if contours:
     print("RED OBJECT DETECTED!")  # Trigger safety stop
 ```
 
-### 📺 Related Video: <div class="youtube-embed" data-title="What is ROS, When to use it, and Why ?" data-video-id="8QfI5a7lTKU"></div>
+### 📺 Related Video: [What is ROS, When to use it, and Why ?](https://www.youtube.com/watch?v=8QfI5a7lTKU)
 *Description: Comprehensive tutorial explaining ROS fundamentals and its application in robotic systems*
 
 ---
@@ -140,7 +141,7 @@ for _ in range(10):
 ros2 lifecycle manage /navigation_node
 ```
 
-### 📺 Related Video: <div class="youtube-embed" data-title="Driving the adoption of a common Robotics Middleware Framework" data-video-id="0ag88KMeOtg"></div>
+### 📺 Related Video: [Driving the adoption of a common Robotics Middleware Framework](https://www.youtube.com/watch?v=0ag88KMeOtg)
 *Description: Demonstration of middleware frameworks for robust robotic communication and error handling*
 
 ### Debugging Exercise
@@ -187,13 +188,13 @@ def move_to(target):
    *Modern robotic system architecture*
 
 ### 🎥 Videos
-1. <div class="youtube-embed" data-title="What is ROS, When to use it, and Why ?" data-video-id="8QfI5a7lTKU"></div>  
+1. [What is ROS, When to use it, and Why ?](https://www.youtube.com/watch?v=8QfI5a7lTKU)  
    *ROS fundamentals tutorial with practical examples*
 
-2. <div class="youtube-embed" data-title="Robotics Middleware Framework" data-video-id="0ag88KMeOtg"></div>  
+2. [Robotics Middleware Framework](https://www.youtube.com/watch?v=0ag88KMeOtg)  
    *Middleware implementation for robust robotic systems*
 
-3. <div class="youtube-embed" data-title="Creating a Virtual Private Cloud" data-video-id="cAsqssPrVTs"></div>  
+3. [Creating a Virtual Private Cloud](https://www.youtube.com/watch?v=cAsqssPrVTs)  
    *Networking concepts applicable to robotic systems*
 
 ## References & Further Reading
@@ -203,3 +204,4 @@ def move_to(target):
 | _Robotic Systems Engineering_ by McCauley | Architectural patterns |
 | PID Tuner App (Android/iOS) | Interactive controller tuning |
 | ROS 2 Foxy Documentation | Official error handling guidelines |
+```

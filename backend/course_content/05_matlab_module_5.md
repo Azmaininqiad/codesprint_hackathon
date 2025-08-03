@@ -1,3 +1,4 @@
+```markdown
 # MATLAB Module 5: Data Analysis Fundamentals  
 **Difficulty**: Beginner  
 **Estimated Reading Time**: 12 minutes  

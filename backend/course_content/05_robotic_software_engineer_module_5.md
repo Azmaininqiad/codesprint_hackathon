@@ -1,3 +1,4 @@
+```markdown
 # Module 5: Robotic Software Fundamentals with ROS  
 *Beginner Level*  
 **Learning Objective**: Understand core concepts of robot software engineering using ROS (Robot Operating System), including nodes, topics, and basic communication patterns.  
@@ -131,7 +132,7 @@ Think of ROS topics like **radio channels**:
 ### Real-World Application: Automotive Systems  
 Modern vehicles use distributed communication systems similar to ROS:  
 
-### 📺 Related Video: <div class="youtube-embed" data-title="2023 Mercedes Brake Control and ESP Systems Demo" data-video-id="6LR0AafLxhc"></div>  
+### 📺 Related Video: [2023 Mercedes Brake Control and ESP Systems Demo](https://www.youtube.com/watch?v=6LR0AafLxhc)  
 *Description: Demonstrates sensor-controller communication in automotive systems – analogous to ROS publisher-subscriber patterns (Runtime: 2m25s)*  
 
 ---
@@ -176,7 +177,7 @@ This pattern forms the **backbone of all ROS systems** – from industrial robot
 
 ### Supplementary Videos  
 **Robotics Fundamentals**:  
-<div class="youtube-embed" data-title="How to Master Module 5: Digital Electronics" data-video-id="1zPMrx0Wlu4"></div>  
+[How to Master Module 5: Digital Electronics](https://www.youtube.com/watch?v=1zPMrx0Wlu4)  
 *Covers foundational electronics concepts for robotic systems (Runtime: 11m13s)*  
 
 ---
@@ -188,3 +189,4 @@ This pattern forms the **backbone of all ROS systems** – from industrial robot
 | *ROS Robot Programming* (Book) | Comprehensive beginner guide |  
 | [rqt Tutorial](http://wiki.ros.org/rqt/Tutorials) | Visualization tool mastery |  
 | [Message Definitions](http://wiki.ros.org/msg) | Custom message creation |  
+```

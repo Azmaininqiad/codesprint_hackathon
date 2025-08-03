@@ -1,3 +1,4 @@
+```markdown
 # Module 15: Expert Roadmap and Advanced Robotic Software Engineer  
 
 ## Introduction  
@@ -68,7 +69,7 @@ model.learn(total_timesteps=1e6)
 - **Coursera**: "Self-Driving Cars Specialization" (University of Toronto)  
 - **arXiv**: Latest papers on "multi-agent coordination"  
 
-### 📺 Related Video: <div class="youtube-embed" data-title="How to Swap the Face of a Robot: Realbotix at CES2025" data-video-id="L2Aa93iZWpc"></div>  
+### 📺 Related Video: [How to Swap the Face of a Robot: Realbotix at CES2025](https://www.youtube.com/watch?v=L2Aa93iZWpc)  
 *A showcase of cutting-edge humanoid robotics from CES 2025*
 
 ---
@@ -111,7 +112,7 @@ model.learn(total_timesteps=1e6)
    - Obtain ROS 2 Professional Certification  
    - Network with 10+ professionals via LinkedIn/ROS Meetups  
 
-### 📺 Related Video: <div class="youtube-embed" data-title="How to create Jira roadmap a Step by Step Tutorial" data-video-id="cbuo-_jQcS8"></div>  
+### 📺 Related Video: [How to create Jira roadmap a Step by Step Tutorial](https://www.youtube.com/watch?v=cbuo-_jQcS8)  
 *Learn professional roadmap planning techniques for robotics career development*  
 
 > *Pro Tip:* Use T-shaped skill development—deep expertise in one area (e.g., perception) + broad awareness of adjacent fields.  
@@ -174,6 +175,7 @@ if (last_msg_time > ROS_TIME_NOW() - TIMEOUT) {
 3. [Career Pathways](https://www.shutterstock.com/image-vector/career-decision-choosing-direction-choices-600nw-2421936593.jpg)  
 
 **Videos:**  
-1. <div class="youtube-embed" data-title="How to Swap the Face of a Robot: Realbotix at CES2025" data-video-id="L2Aa93iZWpc"></div>  
-2. <div class="youtube-embed" data-title="How to create Jira roadmap a Step by Step Tutorial" data-video-id="cbuo-_jQcS8"></div>  
+1. [How to Swap the Face of a Robot: Realbotix at CES2025](https://www.youtube.com/watch?v=L2Aa93iZWpc)  
+2. [How to create Jira roadmap a Step by Step Tutorial](https://www.youtube.com/watch?v=cbuo-_jQcS8)  
 
+```

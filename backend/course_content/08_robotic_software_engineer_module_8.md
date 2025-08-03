@@ -1,3 +1,4 @@
+```markdown
 # Module 8: Introduction to Robotic Software Engineering
 
 ## Learning Objectives
@@ -110,7 +111,7 @@ except MotorFailure:
 **Why This Matters**:  
 A delivery robot must adjust if a door closes unexpectedly or sensors get dirty!
 
-### 📺 Related Video: <div class="youtube-embed" data-title="Robotics Simulator: V-REP Demo" data-video-id="pDmVtUEftFE"></div>  
+### 📺 Related Video: [Robotics Simulator: V-REP Demo](https://www.youtube.com/watch?v=pDmVtUEftFE)  
 *Description: V-REP simulator demonstrating sensor integration, path planning, and real-time obstacle avoidance in dynamic environments.*
 
 ---
@@ -145,8 +146,9 @@ A delivery robot must adjust if a door closes unexpectedly or sensors get dirty!
 3. [PyBullet Robot Simulation](https://pybullet.org/wordpress/wp-content/uploads/2022/03/teaser-2.gif)  
 
 ### Videos
-1. <div class="youtube-embed" data-title="V-REP Robotics Simulator Demo" data-video-id="pDmVtUEftFE"></div>  
-2. <div class="youtube-embed" data-title="Penetration Testing Tutorial" data-video-id="B7tTQ272OHE"></div>  
-3. <div class="youtube-embed" data-title="Module 8 Tips and Tricks" data-video-id="tu3ydzTZsB0"></div>  
+1. [V-REP Robotics Simulator Demo](https://www.youtube.com/watch?v=pDmVtUEftFE)  
+2. [Penetration Testing Tutorial](https://www.youtube.com/watch?v=B7tTQ272OHE)  
+3. [Module 8 Tips and Tricks](https://www.youtube.com/watch?v=tu3ydzTZsB0)  
 
 *Word count: ~1,450 words - Estimated reading time: 12 minutes*
+```

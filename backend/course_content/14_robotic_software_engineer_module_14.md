@@ -1,3 +1,4 @@
+```markdown
 # Module 14: Robotic Software Engineering - Advanced System Integration
 
 ## Introduction
@@ -5,7 +6,7 @@ Robotic systems evolve from isolated components to integrated ecosystems. This m
 
 ![Modern AI Robot in Action](https://static.wixstatic.com/media/d496b6_89f91cbe8edb408c97c1466cdd98a9b2~mv2.jpg/v1/fill/w_568,h_320,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/d496b6_89f91cbe8edb408c97c1466cdd98a9b2~mv2.jpg)
 
-### 📺 Related Video: <div class="youtube-embed" data-title="ai robot #robot" data-video-id="odhDWi9VqKE"></div>  
+### 📺 Related Video: [ai robot #robot](https://www.youtube.com/watch?v=odhDWi9VqKE)  
 *Description: Showcases advanced AI robots demonstrating real-world applications in modern industrial settings.*
 
 **Learning Objectives**:  
@@ -41,7 +42,7 @@ class ManipulatorController(Node):
         return super().on_activate(state)
 ```
 
-### 📺 Related Video: <div class="youtube-embed" data-title="Programming for Autonomy Tutorial" data-video-id="scVFB4mzmn4"></div>  
+### 📺 Related Video: [Programming for Autonomy Tutorial](https://www.youtube.com/watch?v=scVFB4mzmn4)  
 *Description: Comprehensive tutorial covering autonomy programming concepts including ROS 2 frameworks and decision-making architectures.*
 
 ### Hardware Abstraction Layer (HAL)
@@ -180,7 +181,8 @@ class LegacyDriver(Node):
 2. [Decision-Making Diagram](https://cdn2.free-power-point-templates.com/articles/wp-content/uploads/2012/03/decision-making-process-diagram.png) - Autonomous system workflow  
 
 ### Videos
-1. <div class="youtube-embed" data-title="Programming for Autonomy Tutorial" data-video-id="scVFB4mzmn4"></div> - Advanced autonomy concepts  
-2. <div class="youtube-embed" data-title="AI Robot Demo" data-video-id="odhDWi9VqKE"></div> - Real-world robot applications  
+1. [Programming for Autonomy Tutorial](https://www.youtube.com/watch?v=scVFB4mzmn4) - Advanced autonomy concepts  
+2. [AI Robot Demo](https://www.youtube.com/watch?v=odhDWi9VqKE) - Real-world robot applications  
 
 > *"The complexity of robotic systems grows exponentially at integration boundaries. Mastery lies not in avoiding failures, but in designing through them."* - Dr. Elena Rodriguez, MIT Robotics Lab
+```

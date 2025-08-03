@@ -1,3 +1,4 @@
+```markdown
 # Module 3: Robotic Software Engineering Fundamentals  
 ## Learning Objective: Understand core concepts of robotic programming, sensor integration, and robot control systems  
 
@@ -72,7 +73,7 @@ print(f"Filtered distance: {smooth_distance(raw_data):.1f} cm")
 3. Calculate offset = (max_reading + min_reading)/2  
 4. Apply offset to future measurements  
 
-### 📺 Related Video: <div class="youtube-embed" data-title="Smart Dustbin DIY" data-video-id="lkFejnE_6Mo"></div>  
+### 📺 Related Video: [Smart Dustbin DIY](https://www.youtube.com/watch?v=lkFejnE_6Mo)  
 *Description: Ultrasonic sensor application in a real-world project. Demonstrates object detection and automated response, highlighting calibration importance.*  
 
 ---
@@ -120,7 +121,7 @@ print(f"Adjust motor by: {control_output:.2f} power units")
 3. Add D term to reduce overshoot  
 4. Add I term to eliminate steady-state error  
 
-### 📺 Related Video: <div class="youtube-embed" data-title="Arcminaxis™ Position Sensing Technology" data-video-id="vlLkrzg-lMc"></div>  
+### 📺 Related Video: [Arcminaxis™ Position Sensing Technology](https://www.youtube.com/watch?v=vlLkrzg-lMc)  
 *Description: Cutting-edge magnetic sensing for robotic joints. Shows real-time feedback implementation in control systems.*  
 
 ---
@@ -161,6 +162,7 @@ print(f"Adjust motor by: {control_output:.2f} power units")
 3. [Visual Data Processing Platform](https://s-core.co.kr/img/offer/visualdata2.jpg)  
 
 ### Videos  
-1. <div class="youtube-embed" data-title="Precision Joint Sensing Demo" data-video-id="vlLkrzg-lMc"></div> - Advanced position sensing for robotic control  
-2. <div class="youtube-embed" data-title="Ultrasonic Sensor Application" data-video-id="lkFejnE_6Mo"></div> - Real-world object detection implementation  
-3. <div class="youtube-embed" data-title="Network Protocols for Robotics" data-video-id="lqDNN2lLVRc"></div> - Supplementary material on communication models  
+1. [Precision Joint Sensing Demo](https://www.youtube.com/watch?v=vlLkrzg-lMc) - Advanced position sensing for robotic control  
+2. [Ultrasonic Sensor Application](https://www.youtube.com/watch?v=lkFejnE_6Mo) - Real-world object detection implementation  
+3. [Network Protocols for Robotics](https://www.youtube.com/watch?v=lqDNN2lLVRc) - Supplementary material on communication models  
+```

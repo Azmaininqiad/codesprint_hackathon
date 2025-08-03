@@ -1,3 +1,4 @@
+```markdown
 # Module 9: Simultaneous Localization and Mapping (SLAM) for Robotic Systems
 
 ## Introduction to SLAM  
@@ -22,7 +23,7 @@ Modern SLAM techniques extend to biomechanical tracking, enabling precise 3D mot
 ---
 
 ## Advanced SLAM Implementations  
-### 📺 Related Video: <div class="youtube-embed" data-title="WWC Online Training, Module 9: Study Review Guide, Part 1" data-video-id="u6NJGa6MKnY"></div>  
+### 📺 Related Video: [WWC Online Training, Module 9: Study Review Guide, Part 1](https://www.youtube.com/watch?v=u6NJGa6MKnY)  
 *Description: Critical analysis framework for evaluating robotic navigation research methodologies.*
 
 ---
@@ -40,8 +41,9 @@ Modern SLAM techniques extend to biomechanical tracking, enabling precise 3D mot
 2. [3D Motion Capture System](https://www.frontiersin.org/files/Articles/508997/fbioe-08-00181-HTML/image_m/fbioe-08-00181-g001.jpg)  
 
 ### Videos  
-1. <div class="youtube-embed" data-title="Localization and Internationalization in Java Tutorial" data-video-id="h0educ2nosg"></div> - Software localization foundations  
-2. <div class="youtube-embed" data-title="Google Demo Slam: Stealing the Logo" data-video-id="CExK6cMFuko"></div> - Creative robotics implementation  
-3. <div class="youtube-embed" data-title="WWC Study Review Guide" data-video-id="u6NJGa6MKnY"></div> - Research evaluation standards  
+1. [Localization and Internationalization in Java Tutorial](https://www.youtube.com/watch?v=h0educ2nosg) - Software localization foundations  
+2. [Google Demo Slam: Stealing the Logo](https://www.youtube.com/watch?v=CExK6cMFuko) - Creative robotics implementation  
+3. [WWC Study Review Guide](https://www.youtube.com/watch?v=u6NJGa6MKnY) - Research evaluation standards  
 
 *All media strategically placed to reinforce theoretical concepts with visual examples.*
+```

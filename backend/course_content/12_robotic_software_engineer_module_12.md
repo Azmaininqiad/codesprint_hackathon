@@ -60,7 +60,7 @@ optimal_path = a_star(graph, start_config, goal_config)
 
 **Practical Tip**: Use KD-Trees for neighbor searches to reduce O(n²) complexity.  
 
-### 📺 Related Video: <div class="youtube-embed" data-title="Motoman SIA20 3-D Vision Demo at IMTS" data-video-id="eJLvEXwaJLA"></div>  
+### 📺 Related Video: [Motoman SIA20 3-D Vision Demo at IMTS](https://www.youtube.com/watch?v=eJLvEXwaJLA)  
 *Description: Industrial robotic arm using 3D vision for path planning and object manipulation - direct application of PRM concepts*
 
 ---
@@ -179,5 +179,6 @@ for detection in yolo_output:
 3. [LiDAR Point Cloud Example](https://web.cs.ucdavis.edu/~okreylos/ResDev/LiDAR/FortRoss2Small.jpg) - 3D spatial data  
 
 ### Videos:  
-1. <div class="youtube-embed" data-title="Motoman SIA20 3-D Vision Demo" data-video-id="eJLvEXwaJLA"></div> - Motion planning implementation  
-2. <div class="youtube-embed" data-title="Food Holding Temperature" data-video-id="lGJt981hl-E"></div> - System reliability concepts  
+1. [Motoman SIA20 3-D Vision Demo](https://www.youtube.com/watch?v=eJLvEXwaJLA) - Motion planning implementation  
+2. [Food Holding Temperature](https://www.youtube.com/watch?v=lGJt981hl-E) - System reliability concepts  
+```

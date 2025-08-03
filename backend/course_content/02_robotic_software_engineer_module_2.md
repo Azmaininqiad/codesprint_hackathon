@@ -1,12 +1,13 @@
+```markdown
 # Module 2: Robotic Software Engineering Fundamentals
 
 ## Introduction
 Welcome to Module 2! 🎉 In this module, we'll dive into the core software principles that power robots. You'll learn how software components communicate, process sensor data, and execute tasks. By the end, you'll understand the software architecture of robotic systems and write your first basic robotic control program. Perfect for beginners with basic Python knowledge!
 
-### 📺 Related Video: <div class="youtube-embed" data-title="How to Start with Robotics? for Absolute Beginners" data-video-id="J0ssFp7yN8Y"></div>  
+### 📺 Related Video: [How to Start with Robotics? for Absolute Beginners](https://www.youtube.com/watch?v=J0ssFp7yN8Y)  
 *Description: A 10-minute guide covering fundamentals for robotics beginners, including software architecture concepts*
 
-### 📺 Related Video: <div class="youtube-embed" data-title="How to Install all Laptop Software By one click" data-video-id="bxqAcscHMeU"></div>  
+### 📺 Related Video: [How to Install all Laptop Software By one click](https://www.youtube.com/watch?v=bxqAcscHMeU)  
 *Description: Quick setup guide for essential development tools (40s)*
 
 ---
@@ -114,7 +115,7 @@ Robotic vacuum detecting cliffs with infrared sensors → filters false positive
 3. Raw sensor data requires filtering/fusion to drive decisions  
 4. ROS provides standardized tools for robotic software  
 
-### 📺 Related Video: <div class="youtube-embed" data-title="Kylee Makes a Robot" data-video-id="9KK-gUcgtSQ"></div>  
+### 📺 Related Video: [Kylee Makes a Robot](https://www.youtube.com/watch?v=9KK-gUcgtSQ)  
 *Description: Hands-on exploration of robotic components and engineering principles (14 min)*
 
 ---
@@ -142,6 +143,7 @@ Robotic vacuum detecting cliffs with infrared sensors → filters false positive
 2. [IPC Communication Diagram](https://www.paykademy.com/images/stories/guru/courses/BAOB%202.jpg)  
 
 ### Videos
-1. <div class="youtube-embed" data-title="How to Start with Robotics? for Absolute Beginners" data-video-id="J0ssFp7yN8Y"></div>  
-2. <div class="youtube-embed" data-title="How to Install all Laptop Software By one click" data-video-id="bxqAcscHMeU"></div>  
-3. <div class="youtube-embed" data-title="Kylee Makes a Robot" data-video-id="9KK-gUcgtSQ"></div>
+1. [How to Start with Robotics? for Absolute Beginners](https://www.youtube.com/watch?v=J0ssFp7yN8Y)  
+2. [How to Install all Laptop Software By one click](https://www.youtube.com/watch?v=bxqAcscHMeU)  
+3. [Kylee Makes a Robot](https://www.youtube.com/watch?v=9KK-gUcgtSQ)
+```

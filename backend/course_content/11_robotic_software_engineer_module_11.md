@@ -1,9 +1,10 @@
+```markdown
 # Module 11: Advanced Robotic Software Engineering
 
 ## Introduction  
 Welcome to the capstone module of your robotic software engineering journey! This module explores **advanced robotics systems integration**, focusing on unifying perception, planning, and control in dynamic environments. By studying industrial-grade architectures and error-handling paradigms, you'll learn to build resilient robotic systems ready for real-world deployment.  
 
-### 📺 Related Video: <div class="youtube-embed" data-title="Display Optimization Demo" data-video-id="tioOB3Ysz70"></div>  
+### 📺 Related Video: [Display Optimization Demo](https://www.youtube.com/watch?v=tioOB3Ysz70)  
 *Description: Technical demonstration of real-time optimization techniques critical for deterministic robotic systems.*  
 
 ---
@@ -140,9 +141,9 @@ ENTRYPOINT ["/opt/install/start_robot.sh"]
 3. [Continuous Deployment System](https://aaqr.org/images/article_images/2023/feature/23-02-0034.png)  
 
 ### Videos  
-1. <div class="youtube-embed" data-title="Display Optimization Demo" data-video-id="tioOB3Ysz70"></div>  
-2. <div class="youtube-embed" data-title="How to do double touch in eFootball 25! Advance control" data-video-id="AZ95h6noLAM"></div>  
-3. <div class="youtube-embed" data-title="EASA module 11 summary brief (Power plant only)" data-video-id="8cRWw0cQmOE"></div>  
+1. [Display Optimization Demo](https://www.youtube.com/watch?v=tioOB3Ysz70)  
+2. [How to do double touch in eFootball 25! Advance control](https://www.youtube.com/watch?v=AZ95h6noLAM)  
+3. [EASA module 11 summary brief (Power plant only)](https://www.youtube.com/watch?v=8cRWw0cQmOE)  
 
 ## References & Further Reading  
 1. **Real-Time Concepts**  
@@ -157,5 +158,6 @@ ENTRYPOINT ["/opt/install/start_robot.sh"]
    - Kubernetes for Robotics: https://robotics.khulnasoft.com  
    - ROS 2 launch testing tutorials  
 
-### 📺 Related Video: <div class="youtube-embed" data-title="EASA module 11 summary brief (Power plant only)" data-video-id="8cRWw0cQmOE"></div>  
+### 📺 Related Video: [EASA module 11 summary brief (Power plant only)](https://www.youtube.com/watch?v=8cRWw0cQmOE)  
 *Description: Engineering certification insights applicable to safety-critical robotic systems.*  
+```

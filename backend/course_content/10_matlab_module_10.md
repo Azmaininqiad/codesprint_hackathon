@@ -1,3 +1,4 @@
+```markdown
 # MATLAB Module 10: Data Visualization and Automation  
 **Difficulty**: Beginner  
 **Estimated Reading Time**: 12 minutes  
@@ -132,3 +133,4 @@ circle_area(5)  % Returns 78.5398
 ### 🔍 Related Image  
 ![MATLAB Surface Visualization](https://www.mathworks.com/help/matlab/visualize/surface_ex2.png)  
 *Surface plot demonstrating MATLAB's 3D visualization capabilities* - Shows how to represent complex mathematical functions as surfaces
+```

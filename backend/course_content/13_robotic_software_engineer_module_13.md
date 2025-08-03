@@ -1,3 +1,4 @@
+```markdown
 # Module 13: Robotics and AI Integration
 
 ## Introduction  
@@ -8,7 +9,7 @@ Modern robotics heavily relies on neural networks for perception and decision-ma
 ![Neural Network Diagram](https://i.sstatic.net/ZdjHu.png)  
 *Diagram illustrating node connections in neural networks - crucial for robotic decision systems.*
 
-### 📺 Related Video: <div class="youtube-embed" data-title="99% of Beginners Don't Know the Basics of AI" data-video-id="nVyD6THcvDQ"></div>  
+### 📺 Related Video: [99% of Beginners Don't Know the Basics of AI](https://www.youtube.com/watch?v=nVyD6THcvDQ)  
 *Description: Jeff Su explains core AI principles every robotic engineer should master, including common pitfalls beginners face. Duration: 10m12s.*
 
 ---
@@ -19,7 +20,7 @@ Here's an example of a Quarky-based robot implementing collision prevention:
 ![Autonomous Obstacle Avoidance Robot](https://ai.thestempedia.com/wp-content/uploads/2023/04/Quarky-Obstacle-Avoidance-Robot.png)  
 *Hardware configuration using ultrasonic sensors and motor controllers.*
 
-### 📺 Related Video: <div class="youtube-embed" data-title="Learn to Build your First AI Robot in 1 Hour | Python Programming" data-video-id="x0oUZ4HS7lg"></div>  
+### 📺 Related Video: [Learn to Build your First AI Robot in 1 Hour | Python Programming](https://www.youtube.com/watch?v=x0oUZ4HS7lg)  
 *Description: Step-by-step guide to creating a functional AI robot using Python. Covers sensor integration and behavioral algorithms. Duration: 1h14m.*
 
 ---
@@ -38,8 +39,8 @@ Interactive platforms accelerate robotics education:
 3. [Visual Learning Interface](https://www.visuallearningsys.com/images/bg-dso-home.jpg)  
 
 ### Video References  
-1. <div class="youtube-embed" data-title="Learn to Build your First AI Robot" data-video-id="x0oUZ4HS7lg"></div> - Murtaza's Workshop  
-2. <div class="youtube-embed" data-title="AI Basics for Beginners" data-video-id="nVyD6THcvDQ"></div> - Jeff Su  
+1. [Learn to Build your First AI Robot](https://www.youtube.com/watch?v=x0oUZ4HS7lg) - Murtaza's Workshop  
+2. [AI Basics for Beginners](https://www.youtube.com/watch?v=nVyD6THcvDQ) - Jeff Su  
 
 ## Next Steps  
 Apply these concepts using simulation tools, then proceed to Module 14's hardware integration exercises. Try modifying the obstacle avoidance code while observing how neural network parameters affect robot behavior!

@@ -1,9 +1,10 @@
+```markdown
 # MATLAB Module 12: Advanced Visualization and Functions
 
 ## 1. Introduction to MATLAB Functions
 Functions are essential building blocks in MATLAB for organizing code and enabling reuse. They allow you to encapsulate algorithms, accept inputs, and return outputs.  
 
-### 📺 Related Video: <div class="youtube-embed" data-title="What Are Functions in MATLAB? | Managing Code in MATLAB" data-video-id="KSet3yHIqfI"></div>  
+### 📺 Related Video: [What Are Functions in MATLAB? | Managing Code in MATLAB](https://www.youtube.com/watch?v=KSet3yHIqfI)  
 *Description: Get an overview of what functions in MATLAB® are, and learn how to use them. Duration: 2m 48s • Views: 193,242*
 
 ---
@@ -38,7 +39,7 @@ lightangle(45,30)
 | Type | Title | Link | Description |
 |------|-------|------|-------------|
 | **Image** | 3D Plots in MATLAB | [View](https://media.geeksforgeeks.org/wp-content/uploads/20210429110452/surf3d.png) | Example surface plot with labeled axes |
-| **Video** | MATLAB Functions Tutorial | <div class="youtube-embed" data-title="Watch" data-video-id="KSet3yHIqfI"></div> | Official MATLAB guide to function usage |
+| **Video** | MATLAB Functions Tutorial | [Watch](https://www.youtube.com/watch?v=KSet3yHIqfI) | Official MATLAB guide to function usage |
 
 ### Key Takeaways
 - Functions improve code modularity and maintainability

@@ -1,3 +1,4 @@
+```markdown
 # MATLAB Module 2: Core Programming Concepts
 
 ## Introduction  
@@ -46,7 +47,7 @@ D = A + C    % Element-wise addition
 E = A * D    % Matrix multiplication
 ```
 
-### 📺 Related Video: <div class="youtube-embed" data-title="Linear Algebra - Matrix Operations" data-video-id="p48uw2vFWQs"></div>  
+### 📺 Related Video: [Linear Algebra - Matrix Operations](https://www.youtube.com/watch?v=p48uw2vFWQs)  
 *Description: Quick review of matrix arithmetic, scalar multiplication, and matrix multiplication. (Postcard Professor)*
 
 ---
@@ -151,7 +152,7 @@ Call in command window: `circleArea(5)`
 - [Matrix Schemaball Visualization](https://i.sstatic.net/6UXjq.png) - Diagram showing matrix element relationships  
 
 ### Videos  
-- <div class="youtube-embed" data-title="Matrix Operations Tutorial" data-video-id="p48uw2vFWQs"></div> - Covers core matrix arithmetic (7 mins)
+- [Matrix Operations Tutorial](https://www.youtube.com/watch?v=p48uw2vFWQs) - Covers core matrix arithmetic (7 mins)
 
 ---
 
@@ -159,3 +160,4 @@ Call in command window: `circleArea(5)`
 - [MATLAB Onramp Course (MathWorks)](https://matlabacademy.mathworks.com)  
 - *MATLAB for Beginners* (Chapman Textbook, Ch. 3-5)  
 - [Plotting Documentation](https://www.mathworks.com/help/matlab/2-and-3d-plots.html)  
+```

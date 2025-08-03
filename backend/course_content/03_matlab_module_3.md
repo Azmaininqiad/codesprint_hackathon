@@ -1,3 +1,4 @@
+```markdown
 # MATLAB Module 3: Basic Data Analysis and Visualization  
 **Difficulty**: Beginner  
 **Approximate Reading Time**: 12 minutes  
@@ -87,7 +88,7 @@ Save visualizations for reports:
 saveas(gcf, 'sine_cosine_comparison.png'); % Saves current figure
 % Formats: .png, .jpg, .pdf
 ```  
-### 📺 Related Video: <div class="youtube-embed" data-title="Master Advanced Plotting in MATLAB" data-video-id="yPHVbxUrjJE"></div>  
+### 📺 Related Video: [Master Advanced Plotting in MATLAB](https://www.youtube.com/watch?v=yPHVbxUrjJE)  
 *Description: Unlock the full potential of your data visualization skills with our detailed MATLAB tutorial on advanced plotting techniques!*
 
 ---
@@ -118,4 +119,5 @@ saveas(gcf, 'sine_cosine_comparison.png'); % Saves current figure
 ### Images:  
 - [Statistical Analysis Visualization](https://www.mathworks.com/help/matlab/visualize/surface_ex2.png)  
 ### Videos:  
-- <div class="youtube-embed" data-title="Master Advanced Plotting in MATLAB" data-video-id="yPHVbxUrjJE"></div> - Advanced plotting techniques tutorial (6m49s)
+- [Master Advanced Plotting in MATLAB](https://www.youtube.com/watch?v=yPHVbxUrjJE) - Advanced plotting techniques tutorial (6m49s)
+```

@@ -1,3 +1,4 @@
+```markdown
 # Module 9: Data Visualization in MATLAB  
 **Difficulty Level**: Beginner  
 **Estimated Reading Time**: 10-12 minutes  
@@ -116,11 +117,12 @@ set(gca, 'XTick', 1:7); % Force integer ticks
 ## References & Further Reading  
 - [MATLAB Plotting Documentation](https://mathworks.com/help/matlab/plots.html)  
 - **Recommended Book**: *MATLAB for Beginners* by R. Padmanabhan (Ch. 7)  
-- **Video Resource**: <div class="youtube-embed" data-title="MATLAB Tools for Scientists: Introduction to Statistical Analysis" data-video-id="4ipdsefA5ik"></div>  
+- **Video Resource**: [MATLAB Tools for Scientists: Introduction to Statistical Analysis](https://www.youtube.com/watch?v=4ipdsefA5ik)  
   *Description: Researchers and scientists have to commonly process, visualize and analyze large amounts of data to extract patterns, identify trends, and test hypotheses. Duration: 54:53.*  
 
 ---
 
 ## Visual Resources  
 - **Banner Image**: [Data Visualization with MATLAB](https://www.mathworks.com/discovery/data-visualization/_jcr_content/mainParsys/band_1231704498_copy/mainParsys/lockedsubnav/mainParsys/columns_99757339/ebe28e08-4871-42a8-a122-147bc6c06386/columns_1697083820_c_1312823950/2bf7bdf4-b7d0-4bcd-bfe8-95fe4ff20ac6/image.adapt.full.medium.jpg/1751307446026.jpg)  
-- **Featured Video**: <div class="youtube-embed" data-title="MATLAB Tools for Scientists: Introduction to Statistical Analysis" data-video-id="4ipdsefA5ik"></div>  
+- **Featured Video**: [MATLAB Tools for Scientists: Introduction to Statistical Analysis](https://www.youtube.com/watch?v=4ipdsefA5ik)  
+```

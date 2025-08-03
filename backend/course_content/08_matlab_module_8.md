@@ -1,3 +1,4 @@
+```markdown
 # Module 8: MATLAB UI Components and Design Practices
 
 ## 🖥️ Tab Focus Order Management
@@ -7,7 +8,7 @@ Learn to control user navigation flow in MATLAB applications with R2022a's new t
 *Visual demonstration of tab order configuration in App Designer*
 
 ## 🎨 UX/UI Design Integration
-### 📺 Related Video: <div class="youtube-embed" data-title="My 5-Step UX/UI Design Process — From Start to Deliver" data-video-id="aoFMyMYhKCM"></div>
+### 📺 Related Video: [My 5-Step UX/UI Design Process — From Start to Deliver](https://www.youtube.com/watch?v=aoFMyMYhKCM)
 *Description: Professional workflow breakdown covering requirement analysis, prototyping, user testing, and final implementation (16-minute tutorial with 1.1M+ views)*
 
 ## 🔍 Implementation Exercise
@@ -27,5 +28,6 @@ fig.Children = [btn2 btn1]; % Reverse default tab order
   [Tab Order Modification Demo Image](https://www.mathworks.com/matlabcentral/discussions/uploaded_files/10759/data)
 
 **Recommended Viewing:**  
-▶️ <div class="youtube-embed" data-title="UX/UI Design Process Tutorial" data-video-id="aoFMyMYhKCM"></div>  
+▶️ [UX/UI Design Process Tutorial](https://www.youtube.com/watch?v=aoFMyMYhKCM)  
 *Faizur Rehman | July 2023 | Views: 1,153,947*
+```

@@ -1,3 +1,4 @@
+```markdown
 # Module 4: Robotic Software Engineer - Core Principles
 
 ![Robotic Arm in Action](https://img.freepik.com/premium-vector/claw-robot-arm-technology-industrial-automatic-machine-movement-modern-futuristic-yellow-illustration_1162612-3163.jpg)
@@ -18,7 +19,7 @@ Develop foundational software skills for implementing robotic behaviors through 
 ### What Are Control Systems?  
 Mechanisms that regulate robot behavior through:
 
-### 📺 Related Video: <div class="youtube-embed" data-title="What is an Actuator?" data-video-id="LHn7O6PUaoY"></div>  
+### 📺 Related Video: [What is an Actuator?](https://www.youtube.com/watch?v=LHn7O6PUaoY)  
 *Description: Explains the role of actuators - critical components that convert control signals into physical motion in robotic systems.*
 
 ```python
@@ -178,7 +179,7 @@ Configure move_base for obstacle avoidance in ROS.
 
 ## Visual Resources
 ### Videos
-1. <div class="youtube-embed" data-title="What is an Actuator?" data-video-id="LHn7O6PUaoY"></div> - RealPars  
+1. [What is an Actuator?](https://www.youtube.com/watch?v=LHn7O6PUaoY) - RealPars  
    *Explains actuator components and their role in robotic control systems*
 
 ### Images
@@ -186,3 +187,4 @@ Configure move_base for obstacle avoidance in ROS.
    *Illustration of industrial robotic arm mechanics*
 2. [Actuator Components](https://i.ytimg.com/vi/8Kdm0VAcJVI/hqdefault.jpg)  
    *Technical diagram showing actuator internal components*
+```

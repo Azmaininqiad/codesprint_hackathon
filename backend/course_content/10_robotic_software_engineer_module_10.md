@@ -1,3 +1,4 @@
+```markdown
 # Module 10: Robotic Software Engineering Essentials  
 **Learning Objectives**: Understand core robotics software architecture, implement ROS nodes, and debug robotic systems.  
 **Difficulty**: Beginner  
@@ -63,7 +64,7 @@ if __name__ == '__main__':
 - Creates a node `command_generator`  
 - Publishes "MOVE_FORWARD" to `/robot_commands` topic every second  
 
-### 📺 Related Video: <div class="youtube-embed" data-title="Obstacle Avoiding Car using Ultrasonic sensor" data-video-id="P_YMeFNKZho"></div>  
+### 📺 Related Video: [Obstacle Avoiding Car using Ultrasonic sensor](https://www.youtube.com/watch?v=P_YMeFNKZho)  
 *Description: Practical implementation of sensor data processing and actuator control - demonstrates publisher-subscriber patterns in real hardware.*
 
 ---
@@ -99,7 +100,7 @@ Common issues and tools:
           plan_path(data)  # Only proceed if valid data  
   ```  
 
-### 📺 Related Video: <div class="youtube-embed" data-title="Indoor navigation demo at MWC" data-video-id="pPCv0IVPrfA"></div>  
+### 📺 Related Video: [Indoor navigation demo at MWC](https://www.youtube.com/watch?v=pPCv0IVPrfA)  
 *Description: Real-world navigation system implementation - illustrates how debugging ensures smooth operation in complex environments.*
 
 ---
@@ -125,9 +126,9 @@ Common issues and tools:
 3. [Obstacle Avoidance Zones](https://www.researchgate.net/publication/330895032/figure/fig2/AS:723129102000130@1549418821118/Obstacle-avoidance-zone-of-agricultural-UAVs-1-This-figure-does-not-express-the-OA-zone.jpg)  
 
 ### Videos
-1. <div class="youtube-embed" data-title="Obstacle Avoidance Robot Implementation" data-video-id="P_YMeFNKZho"></div>  
-2. <div class="youtube-embed" data-title="Indoor Navigation System Demo" data-video-id="pPCv0IVPrfA"></div>  
-3. <div class="youtube-embed" data-title="Module Study Tips" data-video-id="gWmfYPeefuU"></div>  
+1. [Obstacle Avoidance Robot Implementation](https://www.youtube.com/watch?v=P_YMeFNKZho)  
+2. [Indoor Navigation System Demo](https://www.youtube.com/watch?v=pPCv0IVPrfA)  
+3. [Module Study Tips](https://www.youtube.com/watch?v=gWmfYPeefuU)  
 
 ---
 
@@ -137,3 +138,4 @@ Common issues and tools:
 - **Tools**: [Gazebo Simulator](https://gazebosim.org/), [ROS Wiki](http://wiki.ros.org/)  
 
 > "Robotics is not about replacing humans; it’s about amplifying human potential." — Cynthia Breazeal  
+```

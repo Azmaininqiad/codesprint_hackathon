@@ -1,3 +1,4 @@
+```markdown
 # MATLAB Module 4: Core Programming Concepts
 
 ## Introduction
@@ -160,3 +161,4 @@ end  % Line 4
 2. *MATLAB for Beginners* by Michael Fitzpatrick
 3. Official Documentation: MathWorks Help Center
 4. Community Resources: MATLAB Central File Exchange
+```

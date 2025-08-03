@@ -1,3 +1,4 @@
+```markdown
 # Module 6: Robotic Software Engineering Fundamentals  
 *Approximate reading time: 12 minutes (1,430 words)*  
 
@@ -73,7 +74,7 @@ void updatePosition(const SensorData& data) {
 }
 ```
 
-### 📺 Related Video: <div class="youtube-embed" data-title="Fanuc Robot Tutorial 3: Introduction to Robot Coding" data-video-id="gz8mamoZoZY"></div>  
+### 📺 Related Video: [Fanuc Robot Tutorial 3: Introduction to Robot Coding](https://www.youtube.com/watch?v=gz8mamoZoZY)  
 *Description: Practical demonstration of sensor integration and real-time coding using industrial robots.*
 
 **Step-by-Step Guide: Processing Camera Data**  
@@ -150,4 +151,5 @@ def callback(data):
 3. [State Machine Flowchart](https://i.ytimg.com/vi/NdS8J9lHWgE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAHjxbYUZcAQPKweQbWwpB8OlyqFg) - Behavior sequence design  
 
 ### Videos
-1. <div class="youtube-embed" data-title="Fanuc Robot Tutorial 3: Robot Coding" data-video-id="gz8mamoZoZY"></div> - Real-world sensor integration demo  
+1. [Fanuc Robot Tutorial 3: Robot Coding](https://www.youtube.com/watch?v=gz8mamoZoZY) - Real-world sensor integration demo  
+```
